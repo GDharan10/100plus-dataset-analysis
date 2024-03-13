@@ -13,7 +13,7 @@ The "100plus" dataset comprises data points from different domains, including de
 - `README.md`: This file, providing an overview of the project.
 
 ## Dependencies
-- Python 3.x
+- Python
 - Pandas
 - NumPy
 - Matplotlib
