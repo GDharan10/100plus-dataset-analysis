@@ -9,7 +9,6 @@ The "100plus" dataset comprises data points from different domains, including de
 ## Repository Structure
 - `data/`: Contains the raw data files used in the analysis.
 - `notebooks/`: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
-- `scripts/`: Additional Python scripts for specific tasks or utilities.
 - `results/`: Output files, visualizations, and summaries generated during the analysis.
 - `README.md`: This file, providing an overview of the project.
 
