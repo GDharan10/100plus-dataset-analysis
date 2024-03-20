@@ -7,7 +7,7 @@ This repository contains the code and documentation for analyzing the "100plus" 
 The "100plus" dataset comprises data points from different domains, including demographics, health indicators, economic factors, and more. Each entry in the dataset represents a unique observation with various attributes.
 
 ## Repository Structure
-- `data/`: Contains the raw data files used in the analysis.
+- `Tips.csv`: Contains the raw data files used in the analysis.
 - `notebooks/`: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
 - `results/`: Output files, visualizations, and summaries generated during the analysis.
 - `README.md`: This file, providing an overview of the project.
